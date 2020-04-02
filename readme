@@ -1,1 +1,3 @@
-
+Analisi dei dati forniti giornalmente dalla protezione civile.
+Lo studio può essere fatto prendendo in considerazione diversi assi di analisi. Per ora mi sono limitato a considerare il numero di pazienti ricoverati con sintomi che sembra essere un dato più significativo per avere un'idea di come progredisce il contagio rispetto al numero dei contagiati censiti, troppo dipendente da quanti tamponi vengono effettuati giornalmente.
+I grafici riportano l'andamento dei ricoverati per tutta Italia e singolarmente per alcune regioni, confrontandolo con una curva esponenziale (che ben ricalca tale andamento per le prime settimane, fino a quando cioè non hanno cominciato ad avere effetto le misure di distanziamento sociale). Lo stesso confronto è stato fatto anche con una sigmoide, che in questa fase molto meglio approssima il reale andamento dei dati misurati.
